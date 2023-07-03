@@ -1,5 +1,6 @@
 # Импорт класса User из модуля module
 
+#from .module2 import User
 #from ..package_one.module import User
 from Python.package_one.module import User
 
